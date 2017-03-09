@@ -11,7 +11,7 @@ file by following the video.
 
 To run the application please follow the below steps
 
-Step 1: Install Node JS
+<b>Step 1: Install Node JS</b>
 
 Install Nodejs in your system. I am using windows machine, you can find other Operating system servers 
 from http://nodejs.org/download/
@@ -23,7 +23,7 @@ from http://nodejs.org/download/
    
    To Quit Node press Ctrl+C twice
 
-Step 2: Install Mongo DB
+<b>Step 2: Install Mongo DB</b>
 
 Mongo DB is required for this application. Install Mongo DB from http://www.mongodb.org/
 
@@ -40,7 +40,7 @@ Mongo DB is required for this application. Install Mongo DB from http://www.mong
   Ex: C:/MongoDB/bin>mongo
   
   
-  Step 3: Install Mongo & Socket IO node modules for this application
+  <b>Step 3: Install Mongo & Socket IO node modules for this application</b>
   
   Create a folder and paste this application. For Ex : C:\YOURNAME\Chats\
   
